@@ -152,7 +152,7 @@ async function handleDownload() {
       } else {
         const trigger = document.createElement('a')
         trigger.href = dataURL
-        trigger.download = 'vue-color-avatar.png'
+        trigger.download = 'zooif-color-avatar.png'
         trigger.click()
       }
     }

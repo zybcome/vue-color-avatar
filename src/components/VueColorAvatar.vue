@@ -1,7 +1,7 @@
 <template>
   <div
     ref="avatarRef"
-    class="vue-color-avatar"
+    class="zooif-color-avatar"
     :style="{
       width: `${avatarSize}px`,
       height: `${avatarSize}px`,
@@ -91,7 +91,7 @@ watchEffect(async () => {
         .replace('</svg>', '')
 
       return `
-        <g id="vue-color-avatar-${sortedList[i][0]}">
+        <g id="zooif-color-avatar-${sortedList[i][0]}">
           ${content}
         </g>
       `
@@ -116,7 +116,7 @@ watchEffect(async () => {
 </script>
 
 <style lang="scss" scoped>
-.vue-color-avatar {
+.zooif-color-avatar {
   position: relative;
   overflow: hidden;
 

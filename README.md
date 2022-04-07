@@ -7,13 +7,13 @@
 
 </div>
 
-<a href="https://vue-color-avatar.vercel.app" target="_blank">
+<a href="https://zooif-color-avatar.vercel.app" target="_blank">
   <img src="./images/social-preview-1.png" alt="website-preview" />
 </a>
 
 ## 在线预览
 
-[`https://vue-color-avatar.vercel.app`](https://vue-color-avatar.vercel.app)
+[`https://zooif-color-avatar.vercel.app`](https://zooif-color-avatar.vercel.app)
 
 ## 介绍
 
@@ -39,7 +39,7 @@
 
 ```sh
 # 1. 克隆项目至本地
-git clone https://github.com/Codennnn/vue-color-avatar.git
+git clone https://github.com/Codennnn/zooif-color-avatar.git
 
 # 2. 安装项目依赖
 yarn install

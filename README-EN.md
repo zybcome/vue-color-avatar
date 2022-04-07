@@ -13,7 +13,7 @@
 
 ## Preview
 
-[`https://vue-color-avatar.vercel.app`](https://vue-color-avatar.vercel.app)
+[`https://zooif-color-avatar.vercel.app`](https://zooif-color-avatar.vercel.app)
 
 ## Introduction
 
@@ -36,7 +36,7 @@ This project is implemented using `Vue3`.
 
 ```sh
 # 1. Clone project
-git clone https://github.com/Codennnn/vue-color-avatar.git
+git clone https://github.com/Codennnn/zooif-color-avatar.git
 
 # 2. Install dependencies
 yarn install

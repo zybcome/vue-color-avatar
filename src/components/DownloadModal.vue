@@ -8,7 +8,7 @@
       <div class="modal-body">
         <div class="avatar-preview">
           <img
-            alt="vue-color-avatar"
+            alt="zooif-color-avatar"
             :src="props.imageUrl"
             class="avatar-img"
           />
