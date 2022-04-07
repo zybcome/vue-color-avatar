@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Vue Color Avatar</h1>
+  <h1>ZooIf Color Avatar</h1>
 
   <p>🧑‍🦱 A front-end only avatar generation website 🧑‍🦳</p>
 

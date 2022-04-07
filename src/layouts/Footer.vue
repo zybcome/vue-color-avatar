@@ -1,14 +1,13 @@
 <template>
   <footer class="footer">
     <div>
-      Made by
       <a
         class="link"
-        href="https://leoku.top"
+        href="http://zooif.com"
         target="_blank"
         rel="nofollow noopener noreferrer"
       >
-        LeoKu
+        zooif
       </a>
     </div>
 

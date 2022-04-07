@@ -2,11 +2,11 @@
   <header class="header">
     <Logo />
 
-    <h2 class="site-title">Color Avatar</h2>
+    <h2 class="site-title">ZooIf Color Avatar</h2>
 
     <div class="header-right">
       <a
-        href="https://github.com/Codennnn/vue-color-avatar"
+        href="http://zooif.com"
         target="_blank"
         rel="nofollow noopener noreferrer"
       >
@@ -18,8 +18,8 @@
             })
           "
         >
-          <img :src="IconGitHub" alt="GitHub" />
-          <span class="text">GitHub</span>
+          <img :src="LogoSvg" width="30" alt="ZooIf" />
+          <span class="text">ZooIf</span>
         </button>
       </a>
     </div>
@@ -29,6 +29,7 @@
 <script lang="ts" setup>
 import IconGitHub from '@/assets/icons/icon-github.svg'
 import Logo from '@/components/Logo.vue'
+import LogoSvg from '@/assets/logo.png'
 import { recordEvent } from '@/utils/ga'
 </script>
 

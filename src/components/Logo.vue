@@ -8,7 +8,7 @@
 </template>
 
 <script lang="ts" setup>
-import LogoSvg from '@/assets/logo.svg'
+import LogoSvg from '@/assets/logo.png'
 
 const props = withDefaults(defineProps<{ size?: number }>(), {
   size: 2.5,
